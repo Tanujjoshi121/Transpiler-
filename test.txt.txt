@@ -1,0 +1,22 @@
+let x = 10
+let y = 3
+let sum = x + y
+let prod = x * y
+let diff = x - y
+let quot = x / y
+let rem = x % y
+print sum
+print prod
+print diff
+print quot
+print rem
+if sum > prod
+    print sum
+else
+    print prod
+let i = 0
+while i < 3
+    print i
+    let i = i + 1
+for j = 1 to 3
+    print j
